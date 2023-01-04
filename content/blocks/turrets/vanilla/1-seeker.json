@@ -2,7 +2,7 @@
 	"type": "PowerTurret",
 	"size": 5,
 	"health": 8750,
-	"reload": 25,
+	"reload": 50,
 	"range": 540,
   "recoilAmount": 0,
 	"targetAir" : true, 
