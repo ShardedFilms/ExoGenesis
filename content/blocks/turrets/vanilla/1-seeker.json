@@ -1,9 +1,9 @@
 {
 	"type": "PowerTurret",
 	"size": 5,
-	"health": 8750,
+	"health": 6750,
 	"reload": 50,
-	"range": 540,
+	"range": 400,
   "recoilAmount": 0,
 	"targetAir" : true, 
 	"targetGround" : true,
@@ -176,8 +176,7 @@
 	},
 	"requirements": [
         "copper/1500",
-        "titanium/750",
-	"surge-alloy/275"	
+        "titanium/750",	
         "xanium/460",
         "xytranite/700",
         "silicon/900"
