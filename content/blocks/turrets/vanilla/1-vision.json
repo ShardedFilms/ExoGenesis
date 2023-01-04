@@ -164,6 +164,7 @@
     "interp": "swingIn",
     "length": 0,
     "lifetime": 90,
+    "layer": 90,
     "colorFrom": "000000FF",
     "colorTo": "000000FF" 
     }
