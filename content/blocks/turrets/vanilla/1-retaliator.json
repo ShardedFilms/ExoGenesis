@@ -35,7 +35,7 @@
         "splashDamage": 180,
         "splashDamageRadius": 80,
         "weaveMag": 5,
-        "weaveScale": 1.5,
+        "weaveScale": 3,
         "trailParam": 5,
         "trailLength": 23,
         "trailWidth": 5.5,
