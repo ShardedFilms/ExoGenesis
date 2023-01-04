@@ -33,6 +33,7 @@
   "lightColor": "84F491FF",
   "shootEffect": "hitEmpSpark",
   "smokeEffect": "none",
+  "pierceCap" : 6,
   "sideAngle": 15,
   "sideWidth": 0,
   "sideLength": 0
